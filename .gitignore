@@ -1,0 +1,39 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# --- Project Specific ---
+
+# Data files
+# (Generalmente i dati non vengono tracciati da Git perché sono troppo pesanti)
+*.csv
+*.zip
+
+# Saved models
+# (I modelli salvati sono file binari e pesanti)
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.pb
+
+# Log files
+logs/
+*.log
