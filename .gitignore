@@ -25,6 +25,9 @@ Thumbs.db
 # (Generalmente i dati non vengono tracciati da Git perché sono troppo pesanti)
 *.csv
 *.zip
+*.txt
+*.jpg
+
 
 # Saved models
 # (I modelli salvati sono file binari e pesanti)
