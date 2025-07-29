@@ -31,11 +31,8 @@ Thumbs.db
 
 # Saved models
 # (I modelli salvati sono file binari e pesanti)
-*.h5
-*.hdf5
-*.pth
-*.pt
-*.pb
+/models
+*.keras
 
 # Log files
 logs/
